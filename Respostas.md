@@ -104,3 +104,7 @@ dd if=/dev/zero of=1mb_zeros.bin bs=1M count=1
 
 p34-i:
 dd if=/dev/urandom of=2mb_random.bin bs=1M count=2
+
+p35-i:
+wc -l README.txt
+
