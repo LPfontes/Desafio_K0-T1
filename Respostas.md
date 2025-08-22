@@ -23,3 +23,6 @@ echo "Hello World"
 
 p8-b:
 echo "Hello World" > hello.txt
+
+p9-b:
+touch empty.txt
