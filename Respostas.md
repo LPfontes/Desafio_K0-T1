@@ -64,3 +64,7 @@ p20-b:
 p21-b:
 chmod +x challenge_20
 ./challenge_20
+
+p22-b:
+gcc compile_me.c -o compile_me
+./compile_me
