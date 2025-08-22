@@ -35,3 +35,6 @@ p11-i:
 
 p12-i:
 echo -n > empty.txt
+
+p13-b:
+cp hello.txt goodbye.txt
