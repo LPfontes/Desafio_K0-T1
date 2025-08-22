@@ -57,3 +57,6 @@ ls -l
 p19-b:
 chmod 666 restricted.txt
 echo "Algum texto" >> restricted.txt
+
+p20-b:
+./hello_executable
