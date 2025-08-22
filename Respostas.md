@@ -81,3 +81,5 @@ ps all
 p26-b:
 lscpu 
 
+p27-b:
+uname -r
