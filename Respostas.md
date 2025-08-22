@@ -29,3 +29,6 @@ touch empty.txt
 
 p10-b:
 rm empty.txt
+
+p11-i:
+> empty.txt
