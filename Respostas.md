@@ -89,3 +89,6 @@ grep -r "You found the needle in the haystack!" bunch_of_files/
 
 p29-b:
 head -n 25 people.csv
+
+p30-b:
+tail -n 25 people.csv
