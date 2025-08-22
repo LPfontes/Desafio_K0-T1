@@ -86,3 +86,6 @@ uname -r
 
 p28-b:
 grep -r "You found the needle in the haystack!" bunch_of_files/
+
+p29-b:
+head -n 25 people.csv
