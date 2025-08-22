@@ -54,3 +54,6 @@ pwd
 p18-b:
 ls -l
 
+p19-b:
+chmod 666 restricted.txt
+echo "Algum texto" >> restricted.txt
