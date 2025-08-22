@@ -71,3 +71,6 @@ gcc compile_me.c -o compile_me
 
 p23-a:
 ./redirect > output.txt
+
+p24-b:
+date
