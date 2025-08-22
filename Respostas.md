@@ -32,3 +32,6 @@ rm empty.txt
 
 p11-i:
 > empty.txt
+
+p12-i:
+echo -n > empty.txt
