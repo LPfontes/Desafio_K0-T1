@@ -11,3 +11,6 @@ ls
 
 p4-b:
 mkdir foo
+
+p5-i:
+mkdir -p foo/bar/1/2/3
