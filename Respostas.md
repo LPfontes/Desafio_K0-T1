@@ -98,3 +98,6 @@ diff greeting1.txt greeting2.txt
 
 p32-i:
 echo "Hello"; sleep 5; echo "world!"
+
+p33-i:
+dd if=/dev/zero of=1mb_zeros.bin bs=1M count=1
