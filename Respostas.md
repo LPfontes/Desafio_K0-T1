@@ -44,3 +44,6 @@ mv goodbye.txt hello_copy.txt
 
 p15-i:
 diff hello.txt hello_copy.txt
+
+p16-b:
+cat hello.txt hello_copy.txt > 2_hellos.txt
