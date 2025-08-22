@@ -77,3 +77,7 @@ date
 
 p25-b:
 ps all
+
+p26-b:
+lscpu 
+
