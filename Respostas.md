@@ -8,3 +8,6 @@ cd challenges
 
 p3-b:
 ls
+
+p4-b:
+mkdir foo
