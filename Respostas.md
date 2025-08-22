@@ -74,3 +74,6 @@ p23-a:
 
 p24-b:
 date
+
+p25-b:
+ps all
