@@ -122,3 +122,9 @@ tail -n +2 people.csv | cut -d',' -f2 | sort | uniq | wc -l
 
 p40-a:
 sed '1d' people.csv | cut -d',' -f2 | sort | uniq | wc -l
+
+p41-a:
+time tail -n +2 people.csv | cut -d',' -f2 | sort | uniq | wc -l
+time sed '1d' people.csv | cut -d',' -f2 | sort | uniq | wc -l
+
+
