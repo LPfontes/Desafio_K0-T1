@@ -136,4 +136,5 @@ find . -maxdepth 1 -type f | wc -l
 p44-a:
 find . -maxdepth 1 -type d | wc -l
 
-
+p45-a:
+find . -name "*deleteme*" -delete
