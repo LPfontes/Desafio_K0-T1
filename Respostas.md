@@ -151,5 +151,8 @@ find bunch_of_files/ -type f -not -name "file001.rand" -exec md5sum {} + | grep 
 p49-a-b:
 touch supercalifragilisticexpialidocious.txt
 
+p49-a-a:
+rm !$
+
 
 
