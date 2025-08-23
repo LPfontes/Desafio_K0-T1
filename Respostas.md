@@ -147,3 +147,9 @@ tr ',' '|' < people.csv > people_pipe.csv
 
 p48-a:
 find bunch_of_files/ -type f -not -name "file001.rand" -exec md5sum {} + | grep "$(md5sum bunch_of_files/file001.rand | cut -d ' ' -f 1)"
+
+p49-a-b:
+touch supercalifragilisticexpialidocious.txt
+
+
+
