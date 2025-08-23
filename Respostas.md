@@ -120,4 +120,5 @@ cut -d',' -f2 people.csv | sort | uniq | wc -l
 p39-a:
 tail -n +2 people.csv | cut -d',' -f2 | sort | uniq | wc -l
 
-
+p40-a:
+sed '1d' people.csv | cut -d',' -f2 | sort | uniq | wc -l
