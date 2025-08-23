@@ -113,3 +113,6 @@ tac README.txt
 
 p37-i:
 cut -d',' -f2 people.csv
+
+p38-a:
+cut -d',' -f2 people.csv | sort | uniq | wc -l
