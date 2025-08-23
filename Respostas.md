@@ -141,3 +141,6 @@ find . -name "*deleteme*" -delete
 
 p46-a:
 sed -i 's/You found the needle in the haystack!/The needle has been removed./' bunch_of_files/file719.rand
+
+p47-a:
+tr ',' '|' < people.csv > people_pipe.csv
