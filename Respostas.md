@@ -133,4 +133,7 @@ grep -c "^Josiah" people.csv
 p43-a:
 find . -maxdepth 1 -type f | wc -l
 
+p44-a:
+find . -maxdepth 1 -type d | wc -l
+
 
