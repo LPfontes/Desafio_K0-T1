@@ -129,3 +129,8 @@ time sed '1d' people.csv | cut -d',' -f2 | sort | uniq | wc -l
 
 p42-a:
 grep -c "^Josiah" people.csv
+
+p43-a:
+find . -maxdepth 1 -type f | wc -l
+
+
