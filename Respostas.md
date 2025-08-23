@@ -127,4 +127,5 @@ p41-a:
 time tail -n +2 people.csv | cut -d',' -f2 | sort | uniq | wc -l
 time sed '1d' people.csv | cut -d',' -f2 | sort | uniq | wc -l
 
-
+p42-a:
+grep -c "^Josiah" people.csv
