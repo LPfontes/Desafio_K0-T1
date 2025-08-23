@@ -154,5 +154,6 @@ touch supercalifragilisticexpialidocious.txt
 p49-a-a:
 rm !$
 
-
+p50-a:
+touch {a,b,c}-{1,2,3}.txt
 
