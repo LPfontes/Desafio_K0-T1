@@ -107,3 +107,6 @@ dd if=/dev/urandom of=2mb_random.bin bs=1M count=2
 
 p35-i:
 wc -l README.txt
+
+p36-b:
+tac README.txt
